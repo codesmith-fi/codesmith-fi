@@ -2,9 +2,13 @@ I am a 'seasoned' programmer and software engineer with over 30 years of experie
 
 As I am a quite enthusiastig gamer most of my hobby projects are related to game development in one way or another. But I work as a senior SW engineer in a company developing embedded solutions. I also compose music as a hobby, see my Soundcloud link below.
 
-My blog I just started is @ https://codesmith.hashnode.dev/
+![My blog @ Hashnode](https://codesmith.hashnode.dev/)
 
-My Soundcloud page is @ https://soundcloud.com/erno-pakarinen/
+![My Soundcloud page](https://soundcloud.com/erno-pakarinen/)
+
+![My Music on YouTube](https://www.youtube.com/@signalsanctum)
+
+![My Music on Spotify](https://open.spotify.com/artist/1IAaup77GsNgJRlqO7B1yK?si=3MP070SIQ1i6hSNQ90WAMA)
 
 See you around!
 <!---
